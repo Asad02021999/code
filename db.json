@@ -1,0 +1,106 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Pakistan",
+	  "code": "pk"
+    },
+	{
+      "id": 2,
+      "name": "United Arab Emirates",
+	  "code": "ae"
+    },
+	{
+      "id": 3,
+      "name": "Afghanistan",
+	  "code": "af"
+    },
+	{
+      "id": 4,
+      "name": "Argentina",
+	  "code": "ar"
+    },
+	{
+      "id": 5,
+      "name": "Aruba ",
+	  "code": "aw"
+    },
+	{
+      "id": 6,
+      "name": "Bhutan",
+	  "code": "bt"
+    },
+	{
+      "id": 7,
+      "name": "China",
+	  "code": "cn"
+    },
+	{
+      "id": 8,
+      "name": "Christmas Island",
+	  "code": "cx"
+    },
+	{
+      "id": 9,
+      "name": "Germany",
+	  "code": "de"
+    },
+	{
+      "id": 10,
+      "name": "Finland",
+	  "code": "fi"
+    }
+  ],
+  "details": [
+	{
+      "id": 1,
+      "temperature": 12,
+	  "population": 94567
+    },
+	{
+      "id": 2,
+      "temperature": 18,
+	  "population": 654637
+    },
+	{
+      "id": 3,
+      "temperature": 36,
+	  "population": 86545
+    },
+	{
+      "id": 4,
+      "temperature": 42,
+	  "population": 26485465
+    },
+	{
+      "id": 5,
+      "temperature": 2,
+	  "population": 534754
+    },
+	{
+      "id": 6,
+      "temperature": -6,
+	  "population": 62562
+    },
+	{
+      "id": 7,
+      "temperature": 27,
+	  "population": 58742
+    },
+	{
+      "id": 8,
+      "temperature": 22,
+	  "population": 3462747
+    },
+	{
+      "id": 9,
+      "temperature": 12,
+	  "population": 2647465
+    },
+	{
+      "id": 10,
+      "temperature": 32,
+	  "population": 34365
+    }
+  ]
+}
